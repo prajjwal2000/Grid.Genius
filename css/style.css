@@ -816,6 +816,50 @@ i.fa.fa-link {
 
 /* portfolio section end */
 
+/* testimonial section start */
+
+.testimonial_section {
+    width: 100%;
+    float: left;
+    background-color: #192955;
+    height: auto;
+    background-size: 100%;
+    margin-top: 40px;
+}
+.testimonial_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.testimonial_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #d7c30f;
+    margin: 0px;
+    text-align: center;
+}
+
+.testimonial{
+    overflow: hidden;
+    margin: 25px;
+    white-space: nowrap;
+}
+
+.testimonial-review{
+    display: inline-block;
+    animation: 15s slide infinite linear;
+}
+
+.testimonial-review img{
+    height: 160px;
+}
+
+/* testimonial section end */
 
 /* contact section start */
 
