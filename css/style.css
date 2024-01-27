@@ -680,6 +680,52 @@ button {
 
 /* services section end */
 
+/* our team section start */
+
+.ourteam_section {
+    width: 100%;
+    float: left;
+}
+
+.ourteam_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #192955;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ourteam_text {
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #5a5959;
+    margin: 0px;
+    text-align: center;
+}
+
+.ourteam_section_2 {
+    padding: 50px 0px;
+    width: 100%;
+    
+}
+
+.pets_section_2 {
+    width: 100%;
+    float: left;
+    padding-top: 20px;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* our team section end */
+
+
 /* client section start */
 
 
